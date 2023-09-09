@@ -24,4 +24,4 @@ git diff --branch-name-- ->  A command that shows the differences between the wo
 q -> To quit from cmd.
 git merge --branch-name-- -> To merge branches.
 
-                                                            ---- Hope it was helpful ---
+                                                            ---- Hope it was helpful ----
